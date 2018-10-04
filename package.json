@@ -1,0 +1,29 @@
+{
+  "name": "sms-sending_using_nodejs",
+  "version": "1.0.0",
+  "description": "SMS Sending Facility in NodeJS using Nexmo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parathantl/SMS-Sending_using_NodeJS.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Nexmo",
+    "SMS"
+  ],
+  "author": "Parathan Thiyagalingam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parathantl/SMS-Sending_using_NodeJS/issues"
+  },
+  "homepage": "https://github.com/Parathantl/SMS-Sending_using_NodeJS#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "nexmo": "^2.4.0"
+  }
+}
